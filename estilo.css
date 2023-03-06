@@ -1,0 +1,50 @@
+.liga{
+    flex-wrap: wrap;
+    background: rgb(213, 186, 186);
+    width: 200px;
+    height: auto;
+    border: 2px solid black;
+    padding: 10px;
+    margin-left: 40px;
+    margin-top: 20px;
+    list-style: none;
+}
+.equipos{
+    word-spacing: 60px;
+    text-align: left;
+    padding: 5px;
+    display: inline;
+    font-family: Courier New;
+}
+#madrid{
+    display:inline-block;
+    width: 50px;
+}
+#barsa{
+    display:list-item;
+    padding-top: 20px;
+    width: 50px;
+}
+.entrenador{
+    color: rgb(18, 67, 111);
+    font-size: larger;
+    font-weight: bold;
+}
+
+#curtois{
+    width: 30px;
+    height: 30px;
+    display:inline-block;
+    background-image: url(img/courtois.png);
+    background-size: 100%;
+    border-radius: 50px;
+    
+}
+#lunin{
+    width: 30px;
+    height: 30px;
+    display:inline-block;
+    background-image: url(img/lunin.png);
+    background-size: 100%;
+    border-radius: 50px;
+}

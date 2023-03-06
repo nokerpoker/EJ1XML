@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="estilo.css"?>
+<liga class="liga">
+    <equipos class="equipos">
+        <realMadrid id="madrid">
+            <entrenador class="entrenador">
+                 Ancelotti 
+            </entrenador>
+            <jugadores class="jugadoresCaja">
+                <Porteros>
+                    <nombre>Curtois  </nombre>
+                    <imagen id="curtois"></imagen>
+                    <nombre>Lunin  </nombre>
+                    <imagen id="lunin"></imagen>
+                </Porteros>
+                <defensas>
+                        Nacho 
+                        Militao 
+                        Alaba 
+                        Rudigüer 
+                        Mendy 
+                        L.Vazquez 
+                </defensas>
+                <centroCampistas>
+                        Modric 
+                        Kross 
+                        Valverde 
+                        Asensio 
+                        Camavinga 
+                        Touchameni 
+                </centroCampistas>
+                <delanteros>
+                    Vinicius 
+                    Benzema 
+                    Rodrigo 
+                </delanteros>
+            </jugadores>
+        </realMadrid>
+        <Barsa id="barsa">
+            <entrenador class="entrenador">
+                    Xavi 
+            </entrenador>
+            <jugadores class="jugadoresCaja">
+                <Porteros>
+                    Teresteguen 
+                </Porteros>
+                <defensas>
+                Araujo 
+                Kounde 
+                J.Alba 
+                Balde 
+                </defensas>
+                <centroCampistas>
+                Pedri 
+                Gavi 
+                Bustquets 
+                </centroCampistas>
+                <delanteros>
+                Levandowksi 
+                Ferran 
+                Ansu Fati 
+                </delanteros>
+            </jugadores>
+        </Barsa>
+    </equipos>
+</liga>
